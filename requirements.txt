@@ -2,7 +2,7 @@ backcall==0.1.0
 beautifulsoup4==4.7.1
 bs4==0.0.1
 decorator==4.4.0
-Django==3.0.5
+Django==3.0.7
 django-crispy-forms==1.7.2
 django-summernote==0.8.11.4
 ipdb==0.12
